@@ -5,7 +5,7 @@
 
 - **Leaf Image Analysis**: Upload leaf images to receive an analysis of plant health and potential diseases.
 - **Crop-Specific Analysis**: Tailored analysis for potato, tomato, and pepper plants.
-- **User-Friendly Interface**: Easy-to-use web interface for a seamless user experience.
+- **User-Friendly Interface**: Enjoy an intuitive and easy-to-use web interface. It allows you to upload leaf images using the file input or by simply dragging and dropping them, providing a seamless user experience.
 - **Deep Learning**: Advanced algorithms powered by deep learning for accurate diagnoses.
 - **Promoting Plant Health**: Contributing to healthier crops and supporting sustainable agriculture.
 
@@ -50,6 +50,12 @@
    python main.py
    ```
 3. Open your web browser and go to [http://localhost:8000](http://localhost:8000) to access the Plant Health Analyzer.
+
+## Website Preview
+
+| Home Page | Uploaded Image and Dropdown | Prediction Page |
+|-----------|---------------------------|-----------------|
+| ![Home Page](website/image1.png) | ![Uploaded Image and Dropdown](website/image2.png) | ![Prediction Page](website/image3.png) |
 
 
 ## Scope of the project 
