@@ -24,14 +24,18 @@
     ```
 
 2. Download the data from [kaggle](https://www.kaggle.com/arjuntejaswi/plant-village).
-   Extract and keep the data as following:
+   Extract and keep the data as follows:
    ```
-   Plant-Health-Analyzer
-       |
-       |---potato-images
-       |---tamato-images
-       |---pepper-images
-       !...all other folder and files
+   └──Plant-Health-Analyzer
+       ├── potato-images/
+       ├── tomato-images/
+       ├── pepper-images/
+       ├── Models/
+       ├── main.py
+       ├── static/
+       ├── templates/
+       ├── requirements.txt
+       └── training.ipynb
    ```
 
 4. Install Dependencies
